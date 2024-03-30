@@ -24,9 +24,9 @@ navlinks:
 
 # Build settings
 paginate: 3
-baseurl: "/israh-jekyll-theme" # the subpath of your site, e.g. /blog/
+baseurl: "/test_jekyll" # the subpath of your site, e.g. /blog/
 #baseurl: ""
-url: "https://ezrasavard.github.io" # the base hostname & protocol for your site
+url: "https://hopelynx.github.io" # the base hostname & protocol for your site
 highlights: pygments
 permalink: posts/:title/
 include: ["_pages"]
